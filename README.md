@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/sarthak-p/sarthak-p/blob/main/SARTHAK%20PATIPATI.png" alt="header"/>
+  <img src="https://github.com/sarthak-p/sarthak-p/blob/main/Sarthak%20Patipati%20(2).png" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>A highly passionate and hardworking computer science student with over 3 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
