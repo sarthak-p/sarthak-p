@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2  align="center">🧐 Quick Stats</h2>
+### Quick Stats
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sarthak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
