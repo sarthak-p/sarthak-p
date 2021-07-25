@@ -46,7 +46,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;
 <hr>
 
-<hr>
 <h2 align="center"> 🖥️ Frameworks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
