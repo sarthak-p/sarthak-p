@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>A highly passionate and hardworking computer science student with over 3 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
   </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 </p>
 
 <hr>
