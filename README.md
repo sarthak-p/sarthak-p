@@ -67,13 +67,14 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Quick stats about me
+<h2  align="center">🧐 Quick Stats</h2>
+<p align="center">
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sarthak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-
-
+  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthak-p.sarthak-p) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sarthak-p) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthak-p)
 
+<hr>
