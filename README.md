@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">Java, JavaScript, CSS, HTML, Ruby, C++, Python</p>
 
+<hr>
 
 <h2  align="center">📫 Reach Me On</h2>
 <p align="center">
@@ -49,25 +50,5 @@ Here are some ideas to get you started:
    <a href="https://www.facebook.com/sarthakpatipati/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
-<h2>Follow me:</h2>
-<div  align="center">
-
-  <a href="www.linkedin.com/in/sarthak-patipati-0315591a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/sarthakpatipati/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
- <a href="https://twitter.com/PatipatiSarthak/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-  </a>
-   <a href="mailto:spati20@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-</div>
-
-
-
+<hr>
 
