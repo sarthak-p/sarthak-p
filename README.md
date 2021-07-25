@@ -60,9 +60,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-<h2><i>Follow me:</i></h2>
+<h2>Follow me:</h2>
 <div  align="center">
 
   <a href="www.linkedin.com/in/sarthak-patipati-0315591a6" target="_blank">
