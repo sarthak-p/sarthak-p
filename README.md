@@ -62,7 +62,8 @@ Here are some ideas to get you started:
    <a href="https://www.facebook.com/sarthakpatipati/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/586286418230509568/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.reddit.com/user/KingSP3"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.quora.com/"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/93yq6wnd4nubz2kjyu0z8fr5w"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -74,11 +75,8 @@ Here are some ideas to get you started:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthak-p.sarthak-p) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sarthak-p) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthak-p)
 <hr>
 
-<div>
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<div align="center>
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-<h2< Music or Chess? Let's do it!</h2>
- <a target="_blank"href="www.linkedin.com/in/sarthak-patipati-0315591a6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <hr>
