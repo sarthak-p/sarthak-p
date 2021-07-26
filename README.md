@@ -69,15 +69,16 @@ Here are some ideas to get you started:
 
 | Github Stats | Top Languages | Github Streak
 | --- | --- | --- |
-| [![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | ![Sai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+| [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | ![Sarthak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | [![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthak-p.sarthak-p) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sarthak-p) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthak-p)
-
 <hr>
 
 <div>
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<h2< Music or Chess? Let's do it!</h2>
+ <a target="_blank"href="www.linkedin.com/in/sarthak-patipati-0315591a6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <hr>
