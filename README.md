@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![Sarthak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
+
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
@@ -69,7 +71,7 @@ Here are some ideas to get you started:
 
 | Github Stats | Top Languages | Github Streak
 | --- | --- | --- |
-| [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | ![Sarthak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | [![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+| [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github.com/sarthak-p/sarthak-p/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" /> | [![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthak-p.sarthak-p) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sarthak-p) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthak-p)
 <hr>
