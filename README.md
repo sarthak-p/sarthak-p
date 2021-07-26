@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 <p align="center"> (Open for Hiring)</p>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Description</h2>
 <p align="center">
   <samp>A highly passionate and hardworking computer science student (junior at UIC) with over 5 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
   </samp>
