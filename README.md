@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 Hi there! I'm... </h1>
+<h1 align="center"> Hi there 👋 I'm... </h1>
 <div align="center">
   <img src="https://github.com/sarthak-p/sarthak-p/blob/main/Sarthak%20patipati%20(3).png" alt="header"/>
 </div>
