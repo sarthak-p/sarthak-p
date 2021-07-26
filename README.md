@@ -73,5 +73,10 @@ Here are some ideas to get you started:
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthak-p.sarthak-p) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sarthak-p) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthak-p)
 
+<hr>
+
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
 
 <hr>
