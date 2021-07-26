@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-| Github Stats | My Philosophy | Github Streak
+| Github Stats | My Motto | Github Streak
 | --- | --- | --- |
 | [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://github.com/sarthak-p/sarthak-p/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" /> | [![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
