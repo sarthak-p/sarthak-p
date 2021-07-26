@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly passionate and hardworking computer science student with over 3 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
+  <samp>A highly passionate and hardworking computer science student (junior at UIC) with over 3 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
   </samp>
 </p>
 
