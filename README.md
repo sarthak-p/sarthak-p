@@ -75,7 +75,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div align="center">
+<div>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
