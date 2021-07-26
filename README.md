@@ -67,13 +67,11 @@ Here are some ideas to get you started:
 
 <hr>
 
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sarthak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-
+| Github Stats | Top Languages | Github Streak
+| --- | --- | --- |
+| [![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-p&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | ![Sai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-p&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | [![Sai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-p&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthak-p.sarthak-p) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sarthak-p) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sarthak-p)
+
 
 <hr>
