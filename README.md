@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/sarthak-p/sarthak-p/blob/main/Sarthak%20patipati%20(3).png" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> (Open To Work)</p>
 
 <h2 align="center"> 👨‍💻 Summary </h2>
 <p align="center">
