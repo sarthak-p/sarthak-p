@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 👨‍💻 Summary </h2>
 <p align="center">
-  <samp>A highly passionate and hardworking computer science student (junior at UIC) with over 5 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
+  <samp>A highly passionate and hardworking computer science student with over 5 years of computing experience. Possesses a solid understanding of technologies required for the development and deployment of highly available and scalable applications. 
   </samp>
 </p>
 
