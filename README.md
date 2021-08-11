@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-<h2  align="center">📫 Reach Me On</h2>
+<!-- <h2  align="center">📫 Reach Me On</h2>
 <p align="center">
   <a href="mailto:spati20@uic.edu?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="www.linkedin.com/in/sarthak-patipati-0315591a6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/93yq6wnd4nubz2kjyu0z8fr5w"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+<hr> -->
 
 | Github Stats | Motto | Github Streak
 | --- | --- | --- |
