@@ -7,4 +7,4 @@ Graduated from [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 🌍 I'm mostly active on **LinkedIn**
-- 🏋🏽 I like exercise, movies, spirituality, and people
+- 🏋🏽 I enjoy exercise, movies, people, and life
