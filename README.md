@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### A Full-Stack Developer by day ☼ and a Friendly Neigborhood Techie by night ☾
+#### A Full-Stack Developer by day ☼ and a Learner by night ☾
 
 FastTrack Student at [Cook Systems](https://cooksys.com/FastTrack/#form)<br>
 Graduated from [University of Illinois at Chicago](https://cs.uic.edu)<br>
