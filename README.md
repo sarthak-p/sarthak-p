@@ -7,10 +7,13 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 
 
-- ⚙️ My tools: ![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Markup-HTML5-orange)
-![](https://img.shields.io/badge/Style-CSS3-blueviolet)
+- ⚙️ My tools: `.js`, `.html`, `.css`
 - 🌍 I thrive on the challenges and opportunities in the tech landscape
 - 🏋🏽 I enjoy exercise, movies, people, and life
 
-`.js`, `.html`, `.css`
+### 🌱 What I'm Up To
+
+- 🏋🏽‍♂️ Staying active and healthy with regular exercise.
+- 🎥 Exploring the vast world of movies, from indie gems to blockbuster hits.
+- 👥 Meeting new people and learning from their experiences.
+- 📚 Continuously learning; currently diving deeper into [specific technology or topic you're learning].
