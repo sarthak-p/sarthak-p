@@ -1,10 +1,16 @@
-### Hey there 👋
+### Hey there 👋 I'm Sarthak!
 
-#### A Full-Stack Developer by day ☼ and a Learner by night ☾
+#### A Full-Stack Developer by day ☼ and an insatiable Learner by night ☾
 
-FastTrack Student at [Cook Systems](https://cooksys.com/FastTrack/#form)<br>
-Graduated from [University of Illinois at Chicago](https://cs.uic.edu)<br>
+Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack/#form)<br>
+Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`
-- 🌍 I'm mostly active on **LinkedIn**
+
+
+- ⚙️ My tools: ![](https://img.shields.io/badge/Code-JavaScript-yellow)
+![](https://img.shields.io/badge/Markup-HTML5-orange)
+![](https://img.shields.io/badge/Style-CSS3-blueviolet)
+- 🌍 I thrive on the challenges and opportunities in the tech landscape
 - 🏋🏽 I enjoy exercise, movies, people, and life
+
+`.js`, `.html`, `.css`
