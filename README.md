@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer by day ☼ and an insatiable Learner by night ☾
 
-Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack/#form)<br>
+Currently accelerating my skills at [Cook Systems](https://cooksys.com)<br>
 Proud alum of the [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 #### Key Skills 
