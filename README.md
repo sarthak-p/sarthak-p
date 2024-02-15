@@ -12,7 +12,7 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 - Databases: `PostgreSQL`
 - Operating Systems: `MacOS`, `Windows`
 
-#### More about me
+#### More About Me
 - 🌍 I thrive on the challenges and opportunities in the tech landscape
 - 🏋🏽 I enjoy exercise, movies, people, and life
 
