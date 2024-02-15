@@ -13,7 +13,7 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 ### 🌱 What I'm Up To
 
-- 🏋🏽‍♂️ Staying active and healthy with regular exercise.
-- 🎥 Exploring the vast world of movies, from indie gems to blockbuster hits.
-- 👥 Meeting new people and learning from their experiences.
-- 📚 Continuously learning; currently diving deeper into [specific technology or topic you're learning].
+- 🏋🏽‍♂️ Staying active and healthy with regular exercise
+- 🎥 Exploring the vast world of movies, from indie gems to blockbuster hits
+- 👥 Meeting new people and learning from their experiences
+- 📚 Continuously learning; currently diving deeper into Full Stack Development
