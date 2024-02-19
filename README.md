@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Sarthak!
 
-#### Software Developer by day ☼ Learner by night ☾
+#### Full-Stack Developer by day ☼ Learner by night ☾
 
 Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack/)<br>
 Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
