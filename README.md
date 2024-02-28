@@ -14,4 +14,4 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 #### More About Me
 - 🌍 I look forward to challenges and opportunities
-- 🏋🏽 I enjoy exercise, movies, people, and nature
+- 🏋🏽 I enjoy exercise, movies, nature, and people
