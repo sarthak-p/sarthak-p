@@ -1,5 +1,3 @@
-### Hey there 👋 I'm Sarthak!
-
 #### Full-Stack Developer by day ☼ Learner by night ☾
 
 Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack/)<br>
