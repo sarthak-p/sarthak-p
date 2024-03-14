@@ -7,7 +7,7 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 #### Key Skills 
 - Programming: `.java`, `.js`, `.py`, `.ts`, `.html`, `.css`, `SQL`
-- Frameworks/Libraries: `Angular`, `React`, `Spring`, `Node`, `Express`
+- Frameworks/Libraries: `Angular`, `React`, `Spring`, `Node`, `Express`, `jQuery`
 - Tools & Software: `VS Code`, `Git`, `GitHub`, `npm`, `Maven`, `pgAdmin`
 - Databases: `PostgreSQL`
 - Operating Systems: `MacOS`, `Windows`
