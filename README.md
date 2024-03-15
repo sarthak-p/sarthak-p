@@ -9,7 +9,3 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 - Tools & Software: `VS Code`, `Git`, `GitHub`, `npm`, `Maven`, `pgAdmin`
 - Databases: `PostgreSQL`
 - Operating Systems: `MacOS`, `Windows`
-
-#### More About Me
-- 🌍 I look forward to challenges and opportunities
-- 🏋🏽 I enjoy exercise, movies, nature, and people
