@@ -4,7 +4,7 @@ Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack
 Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 #### Key Skills 
-- Programming: `.java`, `.js`, `.py`, `.ts`, `.html`, `.css`, `SQL`
+- Programming: `.java`, `.js`, `.py`, `.ts`, `.html`, `.css`, `.sql`
 - Frameworks/Libraries: `Angular`, `React`, `Spring`, `Node.js`, `Express`, `jQuery`
 - Tools & Software: `VS Code`, `Git`, `GitHub`, `npm`, `Maven`, `pgAdmin`
 - Databases: `PostgreSQL`
