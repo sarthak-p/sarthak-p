@@ -8,4 +8,4 @@ Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 - Frameworks/Libraries: `Angular`, `React`, `Spring`, `Node.js`, `Express`, `jQuery`
 - Tools & Software: `VS Code`, `Git`, `GitHub`, `npm`, `Maven`, `pgAdmin`
 - Databases: `PostgreSQL`
-- Operating Systems: `MacOS`, `Windows`
+- Operating Systems: `MacOS`
