@@ -1,4 +1,4 @@
-#### Building software by day ☼ Learning by night ☾
+#### Software Engineer by day ☼ Learner by night ☾
 
 Currently accelerating my skills at [Cook Systems](https://cooksys.com/FastTrack/)<br>
 Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
