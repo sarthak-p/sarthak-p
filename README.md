@@ -1,7 +1,5 @@
 #### Software Engineer by day ☼ Learner by night ☾
 
-Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
-
 #### Key Skills 
 - Programming: `.java`, `.js`, `.py`, `.ts`, `.html`, `.css`, `.sql`
 - Frameworks/Libraries: `Angular`, `React`, `Spring`, `Node.js`, `Express`, `jQuery`
