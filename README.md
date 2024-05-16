@@ -1,6 +1,5 @@
 #### Software Engineer by day ☼ Learner by night ☾
 
-Former apprentice at [Cook Systems](https://cooksys.com/FastTrack/)<br>
 Proud alum of [University of Illinois at Chicago](https://cs.uic.edu)<br>
 
 #### Key Skills 
