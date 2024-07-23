@@ -1,4 +1,4 @@
-#### Software Engineer by day ☼ Learner by night ☾
+#### Full Stack Developer by day ☼ Learner by night ☾
 
 #### Key Skills 
 - Languages: `.java`, `.js`, `.cs`, `.ts`, `.sql`, `.html`, `.css`, `.py`
