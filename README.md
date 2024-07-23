@@ -1,9 +1,9 @@
 #### Software Engineer by day ☼ Learner by night ☾
 
 #### Key Skills 
-- Programming: `.java`, `.js`, `.cs`, `.html`, `.css`, `.sql`, `.ts`, `.py`
-- Frameworks: `.NET`, `Angular`, `Spring Boot`, `Node.js`, `Express`, `Next.js`
-- Libraries: `React`, `Redux`, `Maven`, `npm`, `JPA`, `JDBC`
-- Tools & Software: `Git`, `GitHub`, `Docker`, `Kubernetes`, `pgAdmin`, `Postman`, `VS Code`
+- Programming: `.java`, `.js`, `.cs`, `.ts`, `.sql`, `.html`, `.css`, `.py`
+- Frameworks: `Node.js`, `Express.js`, `Angular`, `Spring Boot`, `Next.js`, `.NET`
+- Libraries: `React`, `Redux`, `npm`, `jQuery`, `JPA`, `JDBC`, `Maven`
+- Tools & Software: `Git`, `GitHub`, `Docker`, `Postman`, `Kubernetes`, `pgAdmin`
 - Databases: `PostgreSQL`, `MongoDB`
 - Operating Systems: `MacOS`, `Windows`
