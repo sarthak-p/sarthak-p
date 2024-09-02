@@ -1,4 +1,4 @@
-#### Full Stack Developer by day ☼ Learner by night ☾
+#### Backend Developer by day ☼ Learner by night ☾
 
 #### Key Skills 
 - Languages: `.cs`, `.ts`, `.js`, `.sql`, `.html`, `.css`, `.java`, `.py`
