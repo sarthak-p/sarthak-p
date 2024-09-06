@@ -1,5 +1,3 @@
-#### Back-End Developer by day ☼ Learner by night ☾
-
 #### Key Skills 
 - Languages: `.cs`, `.ts`, `.js`, `.sql`, `.html`, `.css`, `.java`, `.py`
 - Frameworks: `.NET`, `Angular`, `Node`, `Spring Boot`
