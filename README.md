@@ -5,4 +5,4 @@
 - Frameworks: `.NET`, `Angular`, `Node`, `Spring Boot`
 - Libraries: `React`, `Redux`, `npm`, `jQuery`, `JPA`, `JDBC`, `Maven`
 - Software: `Git/GitHub`, `Visual Studio`,`Docker`, `Postman`, `Azure DevOps`
-- Databases: `MS SQL Server`
+- Databases: `Microsoft SQL Server`
