@@ -6,4 +6,4 @@
 - Libraries: `Angular`, `React`, `Remix`, `vLLM`
 - Software: `Git, GitHub`, `Visual Studio`, `Azure`, `Docker`, `Postman`
 - Databases: `Microsoft SQL Server`
-- Operating Systems: `Windows`, `Linux`, `macOS`}
+- Operating Systems: `Windows`, `Linux`, `macOS`
