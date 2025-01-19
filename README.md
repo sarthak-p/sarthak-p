@@ -2,7 +2,7 @@
 
 #### Key Skills 
 - Languages: `.cs`, `.py`, `.sql`, `.ts`, `.js`, `.html`, `.css`
-- Frameworks: `.NET`, `ASP .NET Core`, `Entity Framework`, `LINQ`
+- Frameworks: `.NET`, `ASP.NET Core`, `Entity Framework`, `LINQ`
 - Libraries: `Angular`, `React`, `Remix`, `vLLM`
 - Software: `Git, GitHub`, `Visual Studio`, `Azure`, `Docker`, `Postman`
 - Databases: `Microsoft SQL Server`
