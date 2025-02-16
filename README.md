@@ -1,7 +1,7 @@
 ### Software Developer by Day ☀ Learner by Night ☾
 
 #### Key Skills 
-- Languages: `.cs`, `.py`, `.sql`, `.ts`, `.js`, `.html`, `.css`
+- Languages: `.cs`, `.py`, `.sql`, `.ts`, `.js`
 - Frameworks: `.NET`, `ASP.NET Core`, `Entity Framework`, `LINQ`
 - Libraries: `Angular`, `React`, `Remix`, `vLLM`
 - Software: `Git, GitHub`, `Visual Studio`, `Azure`, `Docker`, `Postman`
