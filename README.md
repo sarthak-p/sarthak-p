@@ -1,4 +1,4 @@
-### Building Things by Day ☀ Learning by Night ☾
+### Building Things by Day ☀ Breaking Them by Night ☾
 
 #### Key Skills 
 - Languages: `.cs`, `.sql`, `.js`, `.py`
