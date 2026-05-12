@@ -1,4 +1,4 @@
-### Software Developer by Day ☀ Learner by Night ☾
+### Building Things by Day ☀ Learning by Night ☾
 
 #### Key Skills 
 - Languages: `.cs`, `.sql`, `.js`, `.py`
