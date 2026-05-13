@@ -1,9 +1,9 @@
-### Building Things by Day ☀ Breaking Them by Night ☾
+### Engineer by Day ☀ Learner by Night ☾
 
 #### Key Skills 
-- Languages: `.cs`, `.sql`, `.js`, `.py`
-- Frameworks: `.NET`, `ASP.NET Core`, `Entity Framework`
-- Databases: `Microsoft SQL Server`, `PostgreSQL`, `MySQL`
+- Languages: `.cs`, `.sql`, `.py`, `.java`
+- Frameworks: `.NET`, `.NET Core`, `FastAPI`, `Spring`
+- Databases: `SQL Server`, `PostgreSQL`, `MySQL`
 - Tools: `Git`, `Visual Studio`, `VSCode`, `Postman`
 - Cloud: `Microsoft Azure`, `Google Cloud Platform`
 - DevOps: `Azure DevOps`, `Docker`, `Kubernetes`
